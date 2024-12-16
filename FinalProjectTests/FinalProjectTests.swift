@@ -2,7 +2,7 @@
 //  FinalProjectTests.swift
 //  FinalProjectTests
 //
-//  Created by Admin on 21.12.2023.
+//  Created by Бекзат Ратбек on 13.12.2024.
 //
 
 import XCTest
